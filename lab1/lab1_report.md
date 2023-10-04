@@ -1,12 +1,14 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
-Year: 2023/2024
-Group: K4112c
-Author: Klemesheva Anastasia Sergeevna
-Lab: Lab1
-Date of create: 01.10.2023
-Date of finished: xx.xx.xxxx
+University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
+Year: 2023/2024  
+Group: K4112c  
+Author: Klemesheva Anastasia Sergeevna  
+Lab: Lab1  
+Date of create: 01.10.2023  
+Date of finished: xx.xx.xxxx  
+
+---
 
 1) Запуск minikube:
 
@@ -43,10 +45,8 @@ Date of finished: xx.xx.xxxx
  ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/5bd60515-119c-43d7-8f49-8f48135348a1)
 
 
-Схема:
-
-
-
+Схема:  
+![Схема drawio](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/733d775f-0ae9-453b-bdb7-ead89c3becda)
 
 
 Ответы на вопросы: 1. Был развернут кластер, затем по написанному манифесту в нем был развернут Pod с контейнером, запущенным из образа vault. Чтобы получить доступ к нему извне, был создан сервис, с его помощью мы включили маршрутизацию трафика с хост-машины (нашего ПК). 2. Токен в логах Pod-а.
