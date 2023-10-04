@@ -22,11 +22,13 @@ Date of finished: xx.xx.xxxx
 
 7) Vault открылся по ссылке http://localhost:8200: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/08075425-2fc4-4fe5-a598-97cd0c4fd6b9)
 
-8) Смотрим логи пода, чтобы найти токен для входа:
+8) Смотрим логи Pod-а, чтобы найти токен для входа:
    ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/e3143c7e-453e-4f69-898d-d8469fad16bd)
  ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/0eebff80-c387-499a-a762-336f8368b303)
 
 10) Заходим: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/5bd60515-119c-43d7-8f49-8f48135348a1)
 
+
+Ответы на вопросы: 1. Был развернут кластер, затем написан манифест для развертывания Pod-а из одного контейнера, развернутого из готового образа.     развернуто приложение на Pod-е. 2. Токен в логах Pod-а.
 
 
