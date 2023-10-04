@@ -18,9 +18,9 @@ Date of finished: xx.xx.xxxx
 
 5) Получение доступа к приложению в кластере: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/fbf5effc-5c13-453d-b063-4a7cf5a8af9b)
 
-6) Vault открылся по ссылке http://localhost:8200: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/08075425-2fc4-4fe5-a598-97cd0c4fd6b9)
+6) Прерход по ссылке http://localhost:8200: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/08075425-2fc4-4fe5-a598-97cd0c4fd6b9)
 
-7) Смотрим логи Pod-а, чтобы найти токен для входа:
+7) Просмотр логов Pod-а, чтобы найти токен для входа:
    ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/e3143c7e-453e-4f69-898d-d8469fad16bd)
  ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/0eebff80-c387-499a-a762-336f8368b303)
 
