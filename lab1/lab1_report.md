@@ -8,7 +8,7 @@ Lab: Lab1
 Date of create: 01.10.2023
 Date of finished: xx.xx.xxxx
 
-1) Установка Docker: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/26f4d8a3-b2ac-4dc2-8d15-fce92ca48c11)
+1) Процесс установки Docker: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/26f4d8a3-b2ac-4dc2-8d15-fce92ca48c11)
 
 2) Запуск minikube: ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/e6449757-db8d-4fb4-9060-a6a60a0ddd54)
 
