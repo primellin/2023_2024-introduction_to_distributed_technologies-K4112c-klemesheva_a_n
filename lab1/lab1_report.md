@@ -46,7 +46,8 @@ Date of finished: xx.xx.xxxx
 
 
 Схема:  
-![Схема drawio](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/733d775f-0ae9-453b-bdb7-ead89c3becda)
+
+![схема drawio (1)](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/eff369e0-a67e-4843-960e-6d9b0c0f204b)
 
 
 Ответы на вопросы: 1. Был развернут кластер, затем по написанному манифесту в нем был развернут Pod с контейнером, запущенным из образа vault. Чтобы получить доступ к нему извне, был создан сервис, с его помощью мы включили маршрутизацию трафика с хост-машины (нашего ПК). 2. Токен в логах Pod-а.
