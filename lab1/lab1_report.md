@@ -16,7 +16,7 @@ Date of finished: xx.xx.xxxx
 
 2) Манифест для развёртывания Pod:
 
- ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_n/assets/88944945/0334d969-a289-45dd-9241-bb63394425fb)
+ ![image](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/4bf53747-0944-4917-9e02-15a84b7ae8ef)
 
 3) Развёртывание Pod:
 
