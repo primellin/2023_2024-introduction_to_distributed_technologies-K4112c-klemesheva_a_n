@@ -4,7 +4,7 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2023/2024  
 Group: K4112c  
 Author: Klemesheva Anastasia Sergeevna  
-Lab: Lab1  
+Lab: Lab2  
 Date of create: 06.10.2023  
 Date of finished: xx.xx.xxxx 
 
@@ -75,5 +75,6 @@ Date of finished: xx.xx.xxxx
 
 ![10 логи второго контейнера](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/082a28d0-b606-4fbf-b30c-32c2151a4da4)
 
-Схема организации контейеров и сервисов:
+Схема организации контейеров и сервисов:  
 
+![Схема_2лаб](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/68847729-251d-4201-ae3d-cd4df764dedc)
