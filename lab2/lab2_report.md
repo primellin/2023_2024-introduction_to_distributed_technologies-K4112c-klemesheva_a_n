@@ -77,4 +77,5 @@ Date of finished: xx.xx.xxxx
 
 Схема организации контейеров и сервисов:  
 
-![Схема_2лаб](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/68847729-251d-4201-ae3d-cd4df764dedc)
+![Схема_2лаб](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/269a76d6-06db-4af7-b925-2acd0b81bb42)
+
