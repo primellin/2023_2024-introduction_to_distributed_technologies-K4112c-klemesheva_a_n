@@ -1,0 +1,21 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: secret-frontend
+  namespace: secret-frontend
+spec:
+  tls:
+  - hosts:
+      - secret-frontend.com
+    secretName: secret-tls
+  rules:
+    - host: secret-frontend.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: secret-frontend
+                port:
+                  number: 3000
