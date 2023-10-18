@@ -22,7 +22,7 @@ Date of finished: xx.xx.xxxx
 
 ![1 secret-frontend](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/48e7f762-f157-42dc-b328-f013ed393206)
 
-В configMap заданы значения переменных `REACT_APP_USERNAME` и `REACT_APP_COMPANY_NAME`, которые передаются в ReplicaSet:
+В ConfigMap заданы значения переменных `REACT_APP_USERNAME` и `REACT_APP_COMPANY_NAME`, которые передаются в ReplicaSet:
 
 ![configmap](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/41c8ab06-63ea-4a6b-92a8-c4b210539151)
 
