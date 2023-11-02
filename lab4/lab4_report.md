@@ -41,7 +41,7 @@ Date of finished: xx.xx.xxxx
 
 ![7](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/81d451d4-b169-4ac2-ae91-ecfdbf465366)
 
-Затем создадим свои, по одному для каждой ноды, указав метки в качестве селектора.
+Затем создадим свои, по одному для каждой ноды, указав ранее заданные метки нод в качестве селектора.
 
 ![ippool](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/4a7b18d3-0f80-4763-8c59-25f0e69ee898)
 
@@ -55,7 +55,7 @@ Date of finished: xx.xx.xxxx
 
 ![10](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/cb436b14-55ac-4c59-a953-58f3908453ee)
 
-Поды развернулись на двух нодах, этим подам были назначены IP-адреса, соответствующие тем, что мы указали в IPPool.
+Поды развернулись на двух нодах, этим подам были назначены IP-адреса, соответствующие диапазонам, которые мы указали в IPPool.
 
 ![11](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/3c268c8d-3066-4cc5-9fda-a743017924d5)
 
@@ -63,7 +63,7 @@ Date of finished: xx.xx.xxxx
 
 ![12](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/3288f88c-d9a0-4fa5-8aa2-17ac8cc26545)
 
-На странице приложения видим имя и IP-адрес контейнера. По ним понимаем, что приложение сейчас работает в контейнере с названием `frontend-7cc6876ffb-d5dms` и IP-адресом `192.168.0.65` на ноде `minikube`. Значения имени и IP-адреса поменялись бы, если бы приложение работало в контейнере `frontend-7cc6876ffb-tg4fl` с IP-адресом `192.168.1.0` на другой ноде, `minikube-m02`.
+На странице приложения видим имя и IP-адрес пода. По ним понимаем, что приложение сейчас работает в поде `frontend-7cc6876ffb-d5dms` с IP-адресом `192.168.0.65` на ноде `minikube`. Значения имени и IP-адреса поменялись бы, если бы приложение работало на другой ноде, `minikube-m02`, в поде `frontend-7cc6876ffb-tg4fl` с IP-адресом `192.168.1.0`.
 
 ![13](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/b92c0fbf-e46c-46f9-94fc-8ee09338b696)
 
@@ -74,4 +74,6 @@ Date of finished: xx.xx.xxxx
 ![14](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/e04ac73f-99c6-459a-9c08-158659bb5495)
 
 Схема организации контейеров и сервисов:
+
+![Scheme](https://github.com/primellin/2023_2024-introduction_to_distributed_technologies-K4112c-klemesheva_a_s/assets/88944945/f94c9a9f-4fb6-4d6d-88e8-26bd89caed69)
 
