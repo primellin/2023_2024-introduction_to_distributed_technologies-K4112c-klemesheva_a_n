@@ -6,7 +6,7 @@ Group: K4112c
 Author: Klemesheva Anastasia Sergeevna  
 Lab: Lab4  
 Date of create: 28.10.2023  
-Date of finished: xx.xx.xxxx
+Date of finished: 02.11.2023
 
 ---
 
